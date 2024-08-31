@@ -1,0 +1,2 @@
+Flask #this is devlopment server dont uses for production
+gunicorn #this is a production server for python
